@@ -15,13 +15,13 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 
 - Object Grab System: Built a modular physics-handle interaction system allowing players to dynamically pick up, carry, and throw interactable objects.
   
-### Grappling GIF
+#### Grappling GIF
 ![Grappling GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/RottenBloomGrapple.gif)
 
-### Stomp GIF
+#### Stomp GIF
 ![Stomp GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkStomp.gif)
 
-### Grabbing GIF
+#### Grabbing GIF
 ![Grabbing GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif)
 
 #### 🛠️ What I Did & Why
