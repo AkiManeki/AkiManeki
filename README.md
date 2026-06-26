@@ -19,7 +19,7 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 
 ![Stomp GIF](LINK_TO_YOUR_GIF)
 
-![Grabbing GIF]((https://github.com/AkiManeki/AkiManeki/blob/main/OinkGrab.gif))
+![Grabbing GIF](([https://github.com](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif))
 
 #### 🛠️ What I Did & Why
 * **System Architecture:** Implemented a modular [Name of System] using [Design Pattern, e.g., State Machine / Observer pattern] to keep code decoupled.
