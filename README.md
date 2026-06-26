@@ -14,8 +14,9 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 - Mario-Style Ground Stomp: Programmed a stomp mechanic (Drop, Impact, Recover). Utilized gravity increase alongside physics bounciness modification and sphere detection that recreates classic Mario's stomp with some are damage and bounce.
 
 - Object Grab System: Built a modular physics-handle interaction system allowing players to dynamically pick up, carry, and throw interactable objects.
-
-![Grapplin GIF](LINK_TO_YOUR_GIF)
+  
+### Grabbing GIF
+![Grappling GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/RottenBloomGrapple.gif)
 
 ![Stomp GIF](LINK_TO_YOUR_GIF)
 
