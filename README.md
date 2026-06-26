@@ -19,7 +19,7 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 
 ![Stomp GIF](LINK_TO_YOUR_GIF)
 
-###Grabbing GIF
+### Grabbing GIF
 ![Grabbing GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif)
 
 #### 🛠️ What I Did & Why
