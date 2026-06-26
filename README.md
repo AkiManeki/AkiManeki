@@ -1,5 +1,4 @@
-# Hi, I'm Iñaki, or just Aki if it results more confortable for you 
-# | Junior Gameplay Programmer
+# Hi, I'm Iñaki, or just Aki if it results more confortable for you | Junior Gameplay Programmer
 📍 [Madrid, Spain] | ✉️ [inaki.ibarrola.g@gmail.com] | 💼 [www.linkedin.com/in/iñaki-ibarrola-g]
 
 Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, responsive game feel, and AI architecture.
