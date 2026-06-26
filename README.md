@@ -24,10 +24,6 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 #### Grabbing GIF
 ![Grabbing GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif)
 
-#### 🛠️ What I Did & Why
-* **System Architecture:** Implemented a modular [Name of System] using [Design Pattern, e.g., State Machine / Observer pattern] to keep code decoupled.
-* **Game Feel:** Tuned input buffering and custom frame interpolations ($Lerp$) to make the actions feel snappy and responsive.
-* **The Solution:** Face a tough bug? "Resolved an animation replication stutter by predicting local inputs on the client side."
 
 🔗 [View Source Code Repo](LINK_TO_THE_CODE_REPOSITORY) | 🕹️ [Play Web/Executable Build](LINK_TO_ITCH_IO)
 
