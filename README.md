@@ -18,7 +18,8 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 ### Grappling GIF
 ![Grappling GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/RottenBloomGrapple.gif)
 
-![Stomp GIF](LINK_TO_YOUR_GIF)
+### Stomp GIF
+![Stomp GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkStomp.gif)
 
 ### Grabbing GIF
 ![Grabbing GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif)
