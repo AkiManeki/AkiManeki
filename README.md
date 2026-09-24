@@ -37,22 +37,17 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 🛠️ Technical Breakdown
 - Enemy AI Behaviour: Designed and iterated on enemy decision-making using state logic, perception, and basic tactical pursuit/chase behaviours to create readable and reactive encounters.
 
-- Combat Feel & Feedback: Built responsive attack, hit, and dodge systems focused on timing, impact clarity, and player readability to make combat feel satisfying and consistent.
-
 - AI Architecture: Structured reusable enemy logic with modular components for patrol, chase, attack windows, and transitions between states for easier iteration and scaling.
 
 - Boss / Encounter Design Support: Created encounter-friendly combat tools and behaviour hooks to support stagger windows, telegraphs, and phase transitions in more complex enemy designs.
 
 ---
 
-### 3. [Others]
-🛠️ Technical Breakdown
+### 3. [Gameplay Tools & Visual Systems]
+🛠️ Technical Breakdown  
 - Tooling & Debug Systems: Developed editor and runtime utilities to streamline gameplay iteration, expose key values faster, and validate systems during prototyping.
 
-- UI / Feedback Systems: Implemented clear HUD, hit feedback, and event-driven UI hooks to improve player understanding and polish in fast-paced gameplay loops.
+- Prototype Exploration: Built and tested multiple gameplay concepts to evaluate mechanics quickly, refine core loops, and identify the best-performing ideas for further development in Brut.
 
-- VFX / Interaction Helpers: Worked with visual and gameplay hooks to support impact effects, pickups, and environmental feedback that reinforce player actions.
-
-- Prototype Exploration: Built and tested multiple gameplay concepts to evaluate mechanics quickly, refine core loops, and identify the best-performing ideas for further development.
-
+🟨 [Brut Itch.io page](https://not-for-you-games.itch.io/brut)
 ---
