@@ -4,6 +4,10 @@
 Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, responsive game feel, and AI architecture.
 
 ---
+## 🛠️ Technical Skillset
+* **Languages:** C++, C#, 
+* **Engines:** Unreal Engine 5, Unity
+* **Specialties:** Gameplay Architecture, Vector Math, AI Behavior Trees
 
 ## 🚀 Featured Projects
 
@@ -25,11 +29,8 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 ![Grabbing GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkGrab.gif)
 
 
-🔗 [View Source Code Repo](LINK_TO_THE_CODE_REPOSITORY) | 🕹️ [Play Web/Executable Build](LINK_TO_ITCH_IO)
+🌱 [Rotten Bloom Steam page](https://store.steampowered.com/app/4551100/Rotten_Bloom/) | 🐷 [Oink Splash Party Steam Page](https://store.steampowered.com/app/4660200/Oink_Splash_Party/)
 
 ---
 
-## 🛠️ Technical Skillset
-* **Languages:** C++, C#, 
-* **Engines:** Unreal Engine 5, Unity
-* **Specialties:** Gameplay Architecture, Vector Math, AI Behavior Trees 
+
