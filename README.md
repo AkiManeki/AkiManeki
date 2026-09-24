@@ -39,7 +39,8 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 
 - AI Architecture: Structured reusable enemy logic with modular components for patrol, chase, attack windows, and transitions between states for easier iteration and scaling.
 
-- Boss / Encounter Design Support: Created encounter-friendly combat tools and behaviour hooks to support stagger windows, telegraphs, and phase transitions in more complex enemy designs.
+#### OinkBasicEnemy GIF
+![OinkBasicEnemy GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkBaicEnemy.gif)
 
 ---
 
