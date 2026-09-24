@@ -45,6 +45,9 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 #### MeleePretorian GIF
 ![Melee Pretorian GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/MeleePretorian.gif)
 
+#### RangedPretorian GIF
+![Ranged Pretorian GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/RangedPretorian.gif)
+
 ---
 
 ### 3. [Gameplay Tools & Visual Systems]
