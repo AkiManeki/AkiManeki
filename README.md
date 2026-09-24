@@ -42,6 +42,9 @@ Specializing in **[Unreal Engine / Unity]** with a passion for mechanics, respon
 #### OinkBasicEnemy GIF
 ![OinkBasicEnemy GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/OinkBaicEnemy.gif)
 
+#### OinkBasicEnemy GIF
+![Melee Pretorian GIF](https://raw.githubusercontent.com/AkiManeki/AkiManeki/main/MeleePretorian.gif)
+
 ---
 
 ### 3. [Gameplay Tools & Visual Systems]
